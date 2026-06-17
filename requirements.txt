@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+transformers
+matplotlib
+pillow
+numpy
+requests
+scikit-learn
